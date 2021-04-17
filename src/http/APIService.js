@@ -1,6 +1,6 @@
 /* eslint-disable */
 import axios from 'axios';
-const API_URL = 'http://efsapi.herokuapp.com'; /* http://groyce.pythonanywhere.com or http://localhost:8000 */
+const API_URL = 'https://efsapi.herokuapp.com'; /* http://groyce.pythonanywhere.com or http://localhost:8000 */
 //const API_URL = 'http://localhost:8000';
 
 export class APIService {
